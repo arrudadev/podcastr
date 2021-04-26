@@ -1,24 +1,24 @@
 * {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 :root {
-  --white: #FFF;
+  --white: #fff;
 
-  --gray-50: #F7F8FA;
-  --gray-100: #E6E8EB;
-  --gray-200: #AFB2B1;
+  --gray-50: #f7f8fa;
+  --gray-100: #e6e8eb;
+  --gray-200: #afb2b1;
   --gray-500: #808080;
-  --gray-800: #494D4B;
+  --gray-800: #494d4b;
 
-  --green-500: #04D361;
+  --green-500: #04d361;
 
-  --purple-300: #9F75FF;
-  --purple-400: #9164FA;
-  --purple-500: #8257E5;
-  --purple-800: #6F48C9;
+  --purple-300: #9f75ff;
+  --purple-400: #9164fa;
+  --purple-500: #8257e5;
+  --purple-800: #6f48c9;
 }
 
 @media (max-width: 1080px) {
@@ -37,15 +37,23 @@ body {
   background: var(--gray-50);
 }
 
-body, input, textarea, button {
-  font: 500 1rem Inter, sans-serif;
+body,
+input,
+textarea,
+button {
   color: var(--gray-500);
+  font: 500 1rem Inter, sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-weight: 600;
-  font-family: Lexend, sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: var(--gray-800);
+  font-family: Lexend, sans-serif;
+  font-weight: 600;
 }
 
 h1 {
