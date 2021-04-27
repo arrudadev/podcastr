@@ -51,5 +51,7 @@ module.exports = {
     'import/no-unresolved': 'off',
     'import/extensions': 'off',
     camelcase: 'off',
+    'jsx-a11y/control-has-associated-label': 'off',
+    'jsx-a11y/anchor-is-valid': 'off',
   },
 };
