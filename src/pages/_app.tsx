@@ -14,7 +14,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
   const [isPlaying, setIsPlaying] = useState(false);
 
   function play(episode) {
-    setEpisodeList(episode);
+    setEpisodeList([episode]);
     setCurrentEpisodeIndex(0);
     setIsPlaying(true);
   }

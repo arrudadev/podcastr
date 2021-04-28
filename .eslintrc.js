@@ -53,5 +53,6 @@ module.exports = {
     camelcase: 'off',
     'jsx-a11y/control-has-associated-label': 'off',
     'jsx-a11y/anchor-is-valid': 'off',
+    'jsx-a11y/media-has-caption': 'off',
   },
 };
