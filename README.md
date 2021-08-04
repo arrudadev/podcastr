@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src="https://github.com/monteiro-alexandre/podcastr/master/.github/assets/logo.svg" width="220px" />
+    <img alt="Podcastr" title="Podcastr" src="https://raw.githubusercontent.com/monteiro-alexandre/podcastr/master/.github/assets/logo.svg" width="220px" />
 </h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
@@ -9,7 +9,7 @@
 
 Podcast is an app for playing audio episodes of your favorite podcast.
 
-<img src="https://github.com/monteiro-alexandre/podcastr/master/.github/assets/cover.png" alt="Podcastr" width="100%"/>
+<img src="https://raw.githubusercontent.com/monteiro-alexandre/podcastr/master/.github/assets/cover.png" alt="Podcastr" width="100%"/>
 
 # :pushpin: Table of Contents
 
